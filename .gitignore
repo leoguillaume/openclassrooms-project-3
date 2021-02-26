@@ -1,2 +1,5 @@
 data/
+ressources/
+
 .DS_Store
+**/.ipynb_checkpoints
